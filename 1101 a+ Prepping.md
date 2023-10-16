@@ -81,7 +81,7 @@ Need to make notes on:
 	- platform as a service (PaaS)
 - cloud characteristics
 	- shared resources
-	- metered utilization
+	- metered utilization.
 	- rapid elasticity
 	- high availability
 	- file synchronization
